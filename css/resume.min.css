@@ -195,3 +195,10 @@
     color: #000000;
   }
   
+  .carousel-inner > .item > img {
+  margin: 0 auto;
+}
+
+h2 {
+    text-align: center
+}
